@@ -1,2 +1,1 @@
-# MR Project
- 
+# camera_kit_demo
